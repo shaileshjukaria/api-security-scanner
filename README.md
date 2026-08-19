@@ -1,11 +1,5 @@
 API Security Scanner
 
-"Python" (https://img.shields.io/badge/Python-3.13+-3776AB?style=flat&logo=python&logoColor=white)
-"React" (https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black)
-"FastAPI" (https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker&logoColor=white)
-"OWASP" (https://img.shields.io/badge/OWASP-API%20Security%20Top%2010-orange?style=flat)
 
 «A full-stack API security testing platform designed to identify common REST API vulnerabilities based on the OWASP API Security Top 10.»
 
